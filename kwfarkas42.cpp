@@ -1,6 +1,6 @@
 /*
  *  Title:   kwfarkas42.cpp
- *	Author:  Keegan Farkas
+ *  Author:  Keegan Farkas
  *  Date:    November 14, 2022
  *  Purpose: To unmerge a sorted array into the worst-case input for merge-sort
  */
